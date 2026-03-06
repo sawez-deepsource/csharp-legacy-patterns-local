@@ -4,6 +4,3 @@ version = 1
 name = "csharp"
 enabled = true
 
-  [analyzers.meta]
-  sdk_version = "10.0"
-  lang_version = "14"
